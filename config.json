@@ -29,7 +29,7 @@
     "dropbox": false,
     "webdav": false,
     "gdrive": true,
-    "gdriveClientId": null,
+    "gdriveClientId": "1069620221334-c3ei3c55a504nnf54vuc446h34uf1ab7.apps.googleusercontent.com",
     "onedrive": true,
     "onedriveClientId": null,
     "cacheConfigSettings": false
