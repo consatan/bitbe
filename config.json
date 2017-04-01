@@ -28,10 +28,9 @@
     "canRemoveLatest": true,
     "dropbox": false,
     "webdav": false,
-    "gdrive": true,
-    "gdriveClientId": "1069620221334-c3ei3c55a504nnf54vuc446h34uf1ab7.apps.googleusercontent.com",
+    "gdrive": false,
     "onedrive": true,
-    "onedriveClientId": null,
+    "onedriveClientId": "537e4702-6bc4-48ff-aa9b-be46cddee69c",
     "cacheConfigSettings": false
   }
 }
